@@ -26,4 +26,4 @@ This is a Node.js console application implementing a non-transitive dice game wi
 
 2. **Install Dependencies:**
    ```bash
-   npm install js-sha3
+   npm install 
